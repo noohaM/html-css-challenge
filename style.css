@@ -1,0 +1,136 @@
+*{
+    font-family: 'Abel', sans-serif;
+}
+img , iframe{
+    max-width: 100%;
+    width: 100%;
+}
+
+.col-1{
+    width: 33%;
+}
+.col-2{
+    width: 66%;
+}
+.col-3{
+    width: 99%;
+}
+.col-4{
+    width: 50%;
+}
+
+
+
+.wrapper
+{
+    width: 50%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+nav
+{
+    background-color: #282828;
+    color: rgba(250, 252, 232, 0.918);
+}
+
+#phone{
+    margin-left: 50%;
+    font-size:10px;
+    
+  
+  
+}
+
+.product{
+    display: inline;
+}
+.social
+{
+    color: white;
+   font-size:10px;
+    padding-left: 80px;
+    
+    
+}
+.awla{
+    margin-left:15%;;
+}
+
+
+
+.yakam h3{
+
+    padding-left: 4%;
+}
+.yakam button{
+   margin-left: 4%;
+   border: 1px solid;
+   border-radius: 15px;
+   padding-left: 14px;
+   padding-right:14px;
+   border-color: #4ba367ab;
+    background:white;
+    color: #4ba367;
+    box-shadow: none;
+}
+.yakam{
+    display: inline;
+    background-color: white;
+    
+}
+
+.yakam h2{
+    color: #666668;
+    padding-left: 10%;
+}
+
+.dwam{
+    background-color: #4ba367;
+    
+}
+
+.dwam h1{
+    text-align: center;
+    padding-top: 4%;
+}
+
+.dwam p{
+    padding:0 0 5px 5px;
+    text-align: center;
+}
+.dwam img{
+    margin-left: 30%;
+    height:250px;
+    width: 300px;
+}
+.email{
+    margin-left: 35%;
+}
+
+.dwam p{
+
+    text-align: center;
+    padding-bottom:6%;
+}
+.please{
+    color: white;
+}
+.dwam button{
+    border-radius: 0 15px 15px 0;
+    color: white;
+    background: #377f4d;
+    border: 2px solid;
+    border-color: #377f4d;
+}
+.dwam input{
+    border-radius: 15px 0 0 15px;
+}
+
+.seyam{
+    background-color: #ebebeb;
+}
+.seyam h2{
+    text-align: center;
+    padding-top: 20px;  
+}
